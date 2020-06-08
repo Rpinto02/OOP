@@ -17,6 +17,3 @@ The code is written in portuguese.
 ## License
 [MIT](https://opensource.org/licenses/MIT)
 
-## Issue/Bug
-
-Please open issues on github to report bugs or make feature requests.
